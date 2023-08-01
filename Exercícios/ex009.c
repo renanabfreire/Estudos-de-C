@@ -3,7 +3,7 @@
 int main(){
     int q;
 
-    printf("Você deseja ver a tabuada de qual número?");
+    printf("Você deseja ver a tabuada de qual número?\nR: ");
     scanf("%i", &q);
 
     printf("------------\n");
