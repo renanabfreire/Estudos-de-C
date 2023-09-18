@@ -1,0 +1,12 @@
+Lucas, 7.75, APROVADO
+Maria, 8.25, APROVADO
+João, 5.25, FINAL
+Pedro, 5.75, FINAL
+Ana, 8.75, APROVADO
+Felipe, 6.00, FINAL
+Julia, 7.25, APROVADO
+Bruno, 5.75, FINAL
+Gabriel, 9.25, APROVADO
+Amanda, 4.25, REPROVADO
+Media da turma: 6.82
+Aprovados: 50.00

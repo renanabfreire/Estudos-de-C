@@ -1,0 +1,10 @@
+Lucas, 7.5, 8.0
+Maria, 9.0, 7.5
+João, 4.5, 6.0
+Pedro, 6.0, 5.5
+Ana, 8.5, 9.0
+Felipe, 5.0, 7.0
+Julia, 7.0, 7.5
+Bruno, 6.5, 5.0
+Gabriel, 9.5, 9.0
+Amanda, 4.0, 4.5
