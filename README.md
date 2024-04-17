@@ -1,2 +1,2 @@
 # Estudos de C
- Com o início do curso de Eng. da Computação, tambem aprenderei C
+ Anotações da cadeira de Introdução à Programação onde a pasta Aula se refere aos exercícios propostos em sala e a pasta exercícios pegos da internet
